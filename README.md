@@ -6,8 +6,8 @@ This project was generated using [Nx](https://nx.dev).
 
 Things to try:
 - `nx serve nx-core-demo` (`npm run start nx-core-demo`) to run the app
-- `nx build core-components` (`npm run build nx-core-demo`) to create a distributable library for the core components.
-- `nx build core-styles` (`npm run build nx-core-demo`) to build the style library.
+- `nx build core-components` (`npm run build core-components`) to create a distributable library for the core components.
+- `nx build core-styles` (`npm run build core-styles`) to build the style library.
 
 <sub>To use `nx` commands, install `nx` globally.</sub>
 
